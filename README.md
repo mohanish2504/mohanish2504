@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mohanish2504?tab=repositories](https://github.com/mohanish2504?tab=repositories)
 
-- 📝 In my free time I write articles on [https://medium.com/@mohanishp1/how-mutex-helps-in-avoiding-race-conditions-8d6f479e7b54](https://medium.com/@mohanishp1/how-mutex-helps-in-avoiding-race-conditions-8d6f479e7b54)
+- 📝 In my free time I write articles on [https://medium.com/@mohanishp1](https://medium.com/@mohanishp1)
 
 - 💬 Ask me about **FastAPI, Django, Docker, Flutter**
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1yiXcRcPVTB9EqttTpwY1-oGILFgHCNcn/view?usp=sharing](https://drive.google.com/file/d/1yiXcRcPVTB9EqttTpwY1-oGILFgHCNcn/view?usp=sharing)
 
-- ⚡ Fun fact **I am know to be funny monkey 🐒.**
+- ⚡ Fun fact **I am known to be funny monkey 🐒 in my teams.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
