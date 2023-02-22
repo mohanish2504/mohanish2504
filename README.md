@@ -9,7 +9,7 @@
 
 - 📝 In my free time I write articles on [https://medium.com/@mohanishp1](https://medium.com/@mohanishp1)
 
-- 💬 Ask me about **Software Engineering, System Design, Computer Sceince Core Subjects, Mobile Apps**
+- 💬 Ask me about **Software Engineering, System Design, CS fundamentals, Mobile Apps**
 
 - 📫 How to reach me **mohanishp1@gmail.com**
 
