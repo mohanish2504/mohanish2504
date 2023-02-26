@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Golang**
 
+- 👷🏻‍♂️ Currently building [Synqnest](https://synqnest.com)
+
 - 👨‍💻 All of my projects are available at [https://github.com/mohanish2504?tab=repositories](https://github.com/mohanish2504?tab=repositories)
 
 - 📝 In my free time I write articles on [https://medium.com/@mohanishp1](https://medium.com/@mohanishp1)
